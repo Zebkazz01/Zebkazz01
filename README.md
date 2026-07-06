@@ -122,7 +122,7 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-castillop/)
-[![Email](https://img.shields.io/badge/Email-sebasc0414@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasc0414@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sebasc0414%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasc0414@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zebkazz01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zebkazz01)
 
 </div>
