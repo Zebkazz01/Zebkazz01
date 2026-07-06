@@ -12,7 +12,7 @@ Me apasiona construir aplicaciones que resuelvan problemas reales. Desde el fron
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-castillop/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasc0414@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://famet-backend-iota.vercel.app/dashboard)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-sebastian-sandy.vercel.app/)
 
 </div>
 
@@ -41,7 +41,7 @@ Sistema POS para carnicerías y restaurantes con balanza digital integrada. PWA 
 
 **Stack:** `React` `Node.js` `PostgreSQL` `Prisma` `TypeScript`
 
-[![Demo](https://img.shields.io/badge/Demo-En%20Vivo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://famet-backend-iota.vercel.app/dashboard)
+[![Demo](https://img.shields.io/badge/Demo-En%20Vivo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://famet-backend-iota.vercel.app/)
 [![Código](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zebkazz01/Famet)
 
 </td>
@@ -54,7 +54,7 @@ Experiencia web inmersiva con modelos 3D, animaciones y diseño moderno.
 
 **Stack:** `React 19` `Three.js` `Vite`
 
-[![Demo](https://img.shields.io/badge/Demo-En%20Vivo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-sebastian-sandy.vercel.app)
+[![Demo](https://img.shields.io/badge/Demo-En%20Vivo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-sebastian-sandy.vercel.app/)
 [![Código](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zebkazz01)
 
 </td>
