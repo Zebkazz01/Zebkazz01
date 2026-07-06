@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Zebkazz01
+          outputs: |
+            dist/github-snake-dark.svg?color_snake=steelblue&color_dots=#58A6FF,#1F6FEB,#388bfd,#58A6FF,#79C0FF,#A5D6FF,#DBABD9,#F778BA
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: .
+          keep_files: true
+          force_orphan: false

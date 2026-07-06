@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Sebastián%20Castillo&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=18&descAlignY=55&descAnimation=blur" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Sebasti%C3%A1n%20Castillo&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=18&descAlignY=55&descAnimation=blur" width="100%"/>
 
 <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%26+Node.js+Specialist;Building+solutions+that+matter;3%2B+years+of+experience" width="100%"/>
 
@@ -93,14 +93,14 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zebkazz01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Zebkazz01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zebkazz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebkazz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -110,7 +110,7 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/Zebkazz01/_Sebastian_Castillo/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/output/github-snake-dark.svg" />
 
 </div>
 
@@ -143,3 +143,5 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 **✨ Actualmente buscando nuevas oportunidades. ¡Hablemos! ✨**
 
 ![Visitors](https://komarev.com/ghpvc/?username=Zebkazz01&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
