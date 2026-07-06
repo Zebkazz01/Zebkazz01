@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Sebasti%C3%A1n%20Castillo&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=18&descAlignY=55&descAnimation=blur" width="100%"/>
 
-<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%26+Node.js+Specialist;Building+solutions+that+matter" width="100%"/>
-
 ---
 
 ### 🚀 **3+ años creando soluciones web completas**
@@ -93,14 +91,7 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zebkazz01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebkazz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&theme=tokyonight&hide_border=true" />
 
 </div>
 
