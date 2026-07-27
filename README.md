@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 **3+ años creando soluciones web completas**
+### 🚀 **4+ años creando soluciones web completas**
 
 Me apasiona construir aplicaciones que resuelvan problemas reales. Desde el frontend hasta la base de datos, me encargo de todo el stack.
 
