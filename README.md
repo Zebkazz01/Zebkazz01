@@ -39,7 +39,7 @@ Sistema POS para carnicerías y restaurantes con balanza digital integrada. PWA 
 
 **Stack:** `React` `Node.js` `PostgreSQL` `Prisma` `TypeScript`
 
-[![Demo](https://img.shields.io/badge/Demo-En%20Vivo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://famet-backend-iota.vercel.app/)
+[![Demo](https://img.shields.io/badge/Demo-En%20Vivo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://famet.vercel.app/)
 [![Código](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zebkazz01/Famet)
 
 </td>
