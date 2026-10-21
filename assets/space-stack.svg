@@ -2,6 +2,8 @@
 <defs>
   <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".18" stop-color="#fff"/><stop offset=".82" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <mask id="fade"><rect width="1200" height="560" fill="url(#edge)"/></mask>
+  <linearGradient id="hedge" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".08" stop-color="#fff"/><stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <mask id="hfade"><rect width="1200" height="560" fill="url(#hedge)"/></mask>
   <radialGradient id="space" cx="50%" cy="50%" r="60%"><stop offset="0" stop-color="#1a1145"/><stop offset=".55" stop-color="#0a0d26"/><stop offset="1" stop-color="#0d1117"/></radialGradient>
   <radialGradient id="sun" cx="40%" cy="35%" r="70%"><stop offset="0" stop-color="#fff7ed"/><stop offset=".35" stop-color="#fde68a"/><stop offset=".75" stop-color="#f59e0b"/><stop offset="1" stop-color="#c2410c"/></radialGradient>
   <radialGradient id="corona"><stop offset=".35" stop-color="#fbbf24" stop-opacity=".55"/><stop offset=".6" stop-color="#f472b6" stop-opacity=".18"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
@@ -27,7 +29,7 @@
   @keyframes pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.12);opacity:1}}
   .spin{animation:spin 40s linear infinite;transform-origin:600px 280px}@keyframes spin{to{transform:rotate(360deg)}}
 </style>
-<g mask="url(#fade)">
+<g mask="url(#fade)"><g mask="url(#hfade)">
   <rect width="1200" height="560" fill="url(#space)"/>
   <g filter="url(#blur)" opacity=".6">
     <ellipse cx="380" cy="230" rx="220" ry="80" fill="#6d28d9"/><ellipse cx="860" cy="340" rx="240" ry="70" fill="#0e7490"/>
@@ -89,5 +91,5 @@
   <g><animateTransform attributeName="transform" type="scale" dur="50s" repeatCount="indefinite" values="0.787;0.792;0.798;0.804;0.812;0.820;0.830;0.840;0.851;0.862;0.874;0.886;0.899;0.912;0.925;0.938;0.951;0.964;0.976;0.989;1.000;1.012;1.022;1.032;1.041;1.050;1.057;1.064;1.069;1.073;1.077;1.079;1.080;1.080;1.079;1.076;1.073;1.068;1.062;1.056;1.048;1.040;1.030;1.020;1.009;0.998;0.986;0.974;0.961;0.948;0.935;0.922;0.909;0.896;0.884;0.871;0.860;0.848;0.838;0.828;0.819;0.810;0.803;0.796;0.791;0.787;0.783;0.781;0.780;0.780;0.781;0.784;0.787"/>
   <use href="#i-docker"><animate attributeName="opacity" dur="50s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/></use></g></g>
   <text x="600" y="526" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="4" fill="#a5b4fc" opacity=".8">SISTEMA ZBK · 12 TECNOLOGÍAS EN ÓRBITA</text>
-</g>
+</g></g>
 </svg>

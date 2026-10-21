@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/space-header.svg" width="100%" alt="Sebastián Castillo — Fullstack Developer"/>
+<img src="./assets/space-header.svg?v=3" width="100%" alt="Sebastián Castillo — Fullstack Developer"/>
 
 ### 🚀 **4+ años creando soluciones web completas**
 
@@ -10,7 +10,7 @@ Me apasiona construir aplicaciones que resuelvan problemas reales. Desde el fron
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasc0414@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-sebastian-sandy.vercel.app/)
 
-<img src="./assets/space-divider.svg" width="100%"/>
+<img src="./assets/space-divider.svg?v=3" width="100%"/>
 
 </div>
 
@@ -18,9 +18,9 @@ Me apasiona construir aplicaciones que resuelvan problemas reales. Desde el fron
 
 <div align="center">
 
-<img src="./assets/space-stack.svg" width="100%" alt="React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Tailwind, Vite, Git, Vercel, Firebase, Docker"/>
+<img src="./assets/space-stack.svg?v=3" width="100%" alt="React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Tailwind, Vite, Git, Vercel, Firebase, Docker"/>
 
-<img src="./assets/space-divider.svg" width="100%"/>
+<img src="./assets/space-divider.svg?v=3" width="100%"/>
 
 </div>
 
@@ -87,13 +87,13 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 </tr>
 </table>
 
-<div align="center"><img src="./assets/space-divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/space-divider.svg?v=3" width="100%"/></div>
 
 ## 📡 Telemetría
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&hide_border=true&background=0B1030&ring=8B5CF6&fire=22D3EE&currStreakNum=E0E7FF&sideNums=E0E7FF&currStreakLabel=67E8F9&sideLabels=A5B4FC&dates=64748B&stroke=1E1B4B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakNum=E0E7FF&sideNums=E0E7FF&currStreakLabel=67E8F9&sideLabels=A5B4FC&dates=64748B&stroke=1E1B4B" />
 
 </div>
 
@@ -103,7 +103,7 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 <img src="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/gh-pages/github-snake-dark.svg?v=2" width="100%" alt="Galaxia de contribuciones"/>
 
-<img src="./assets/space-divider.svg" width="100%"/>
+<img src="./assets/space-divider.svg?v=3" width="100%"/>
 
 </div>
 
@@ -127,6 +127,6 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 ![Visitors](https://komarev.com/ghpvc/?username=Zebkazz01&color=7C3AED&style=for-the-badge&label=VISITANTES+DE+LA+GALAXIA)
 
-<img src="./assets/space-footer.svg" width="100%" alt="Fin de la transmisión"/>
+<img src="./assets/space-footer.svg?v=3" width="100%" alt="Fin de la transmisión"/>
 
 </div>
