@@ -18,7 +18,7 @@ Me apasiona construir aplicaciones que resuelvan problemas reales. Desde el fron
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgresql,mongodb,tailwind,vite,git,vercel,firebase,docker&theme=dark" width="100%"/>
+<img src="./assets/space-stack.svg" width="100%" alt="React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Tailwind, Vite, Git, Vercel, Firebase, Docker"/>
 
 <img src="./assets/space-divider.svg" width="100%"/>
 
@@ -93,7 +93,7 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&hide_border=true&background=0B1030&ring=8B5CF6&fire=22D3EE&currStrNum=E0E7FF&sideNums=E0E7FF&currStrLabel=67E8F9&sideLabels=A5B4FC&dates=64748B&stroke=1E1B4B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebkazz01&hide_border=true&background=0B1030&ring=8B5CF6&fire=22D3EE&currStreakNum=E0E7FF&sideNums=E0E7FF&currStreakLabel=67E8F9&sideLabels=A5B4FC&dates=64748B&stroke=1E1B4B" />
 
 </div>
 
