@@ -101,7 +101,7 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/gh-pages/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/gh-pages/github-snake-dark.svg?v=2" width="100%" alt="Galaxia de contribuciones"/>
 
 <img src="./assets/space-divider.svg" width="100%"/>
 

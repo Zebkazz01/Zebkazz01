@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Zebkazz01
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#67E8F9&color_dots=#0B1030,#312E81,#6D28D9,#A78BFA,#F0ABFC
+            dist/github-snake-dark.svg?color_snake=#67E8F9&color_dots=#161B3D,#4C1D95,#7C3AED,#C084FC,#F5D0FE
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
