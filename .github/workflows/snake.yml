@@ -7,25 +7,25 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Zebkazz01
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
+            dist/github-snake.svg
             dist/github-snake-dark.svg?color_snake=#67E8F9&color_dots=#161B3D,#4C1D95,#7C3AED,#C084FC,#F5D0FE
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          destination_dir: .
-          keep_files: true
-          force_orphan: false
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/space-header.svg?v=3" width="100%" alt="Sebastián Castillo — Fullstack Developer"/>
+<img src="./assets/space-header.svg?v=4" width="100%" alt="Sebastián Castillo — Fullstack Developer"/>
 
 ### 🚀 **4+ años creando soluciones web completas**
 
@@ -10,7 +10,7 @@ Me apasiona construir aplicaciones que resuelvan problemas reales. Desde el fron
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasc0414@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-sebastian-sandy.vercel.app/)
 
-<img src="./assets/space-divider.svg?v=3" width="100%"/>
+<img src="./assets/space-divider.svg?v=4" width="100%"/>
 
 </div>
 
@@ -18,9 +18,9 @@ Me apasiona construir aplicaciones que resuelvan problemas reales. Desde el fron
 
 <div align="center">
 
-<img src="./assets/space-stack.svg?v=3" width="100%" alt="React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Tailwind, Vite, Git, Vercel, Firebase, Docker"/>
+<img src="./assets/space-stack.svg?v=4" width="100%" alt="React, TypeScript, Node.js, Java, Express, Spring Boot, PostgreSQL, MongoDB, Tailwind, Vite, Git, Vercel, Firebase, Docker"/>
 
-<img src="./assets/space-divider.svg?v=3" width="100%"/>
+<img src="./assets/space-divider.svg?v=4" width="100%"/>
 
 </div>
 
@@ -87,7 +87,7 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 </tr>
 </table>
 
-<div align="center"><img src="./assets/space-divider.svg?v=3" width="100%"/></div>
+<div align="center"><img src="./assets/space-divider.svg?v=4" width="100%"/></div>
 
 ## 📡 Telemetría
 
@@ -101,19 +101,23 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/gh-pages/github-snake-dark.svg?v=2" width="100%" alt="Galaxia de contribuciones"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/output/github-snake.svg" />
+  <img alt="Galaxia de contribuciones" src="https://raw.githubusercontent.com/Zebkazz01/Zebkazz01/output/github-snake-dark.svg" width="100%" />
+</picture>
 
-<img src="./assets/space-divider.svg?v=3" width="100%"/>
+<img src="./assets/space-divider.svg?v=4" width="100%"/>
 
 </div>
 
 ## 👨‍🚀 Lo que me define
 
-- 🔥 **Proactivo**: Siempre buscando nuevas formas de mejorar
-- 🎯 **Enfocado en resultados**: Cada línea de código tiene un propósito
-- 🌱 **Aprendiz continuo**: Explorando nuevas tecnologías cada día
-- 🤝 **Colaborador**: Trabajo mejor en equipo
-- 💪 **Resiliente**: Los bugs son oportunidades de aprendizaje
+- **Proactivo.** No espero a que algo falle para mejorarlo: si veo una forma más simple o más rápida de hacer las cosas, la propongo.
+- **Orientado a resultados.** Escribo código pensando en el problema que resuelve y en quien lo va a usar, no solo en que funcione.
+- **En aprendizaje constante.** Cada proyecto es una excusa para probar algo nuevo, tanto en el frontend como en el backend.
+- **Buen compañero de equipo.** Me gusta revisar código, explicar mis decisiones y construir junto a otros.
+- **Resiliente.** Un bug difícil no me frustra; es la forma más directa de entender a fondo cómo funciona un sistema.
 
 ## 📫 Abrir canal de comunicación
 
@@ -125,8 +129,8 @@ Gestor de tareas con JWT, roles de usuario y persistencia en MongoDB.
 
 **✨ Actualmente buscando nuevas oportunidades. ¡Hablemos! ✨**
 
-![Visitors](https://komarev.com/ghpvc/?username=Zebkazz01&color=7C3AED&style=for-the-badge&label=VISITANTES+DE+LA+GALAXIA)
+![Visitantes](https://hits.sh/github.com/Zebkazz01.svg?style=for-the-badge&label=VISITANTES%20DE%20LA%20GALAXIA&color=7c3aed&labelColor=0b1030)
 
-<img src="./assets/space-footer.svg?v=3" width="100%" alt="Fin de la transmisión"/>
+<img src="./assets/space-footer.svg?v=4" width="100%" alt="Fin de la transmisión"/>
 
 </div>

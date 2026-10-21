@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Fin de la transmisión">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".5" stop-color="#050818"/><stop offset="1" stop-color="#0b1030"/></linearGradient>
-  <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff"/><stop offset=".78" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <linearGradient id="hedge" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".1" stop-color="#fff"/><stop offset=".9" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <mask id="hfade"><rect width="1200" height="230" fill="url(#hedge)"/></mask>
   <mask id="fade"><rect width="1200" height="230" fill="url(#edge)"/></mask>
@@ -29,6 +29,6 @@
 <ellipse cx="600" cy="1200" rx="1100" ry="1040" fill="none" stroke="url(#atmo)" stroke-width="1.5"/>
 <text x="600" y="62" text-anchor="middle" font-family="Consolas,'SFMono-Regular',Menlo,'Courier New',monospace" font-size="15" letter-spacing="4" fill="#67e8f9">FIN DE LA TRANSMISIÓN<tspan class="cursor">_</tspan></text>
 <text x="600" y="90" text-anchor="middle" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#a5b4fc">Gracias por visitar mi rincón del universo</text>
-<text x="600" y="210" text-anchor="middle" font-family="Consolas,'SFMono-Regular',Menlo,'Courier New',monospace" font-size="11" letter-spacing="3" fill="#64748b">ZEBKAZZ01 · TIERRA · SECTOR 4.71°N</text>
+<text x="600" y="178" text-anchor="middle" font-family="Consolas,'SFMono-Regular',Menlo,'Courier New',monospace" font-size="11" letter-spacing="3" fill="#64748b">ZEBKAZZ01 · TIERRA · SECTOR 4.71°N</text>
 </g></g>
 </svg>
